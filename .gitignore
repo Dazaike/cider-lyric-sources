@@ -23,3 +23,6 @@ publish
 *.njsproj
 *.sln
 *.sw?
+
+# pixel-art build output (source: art/icon.px.js -> public/icon.png)
+art/out
