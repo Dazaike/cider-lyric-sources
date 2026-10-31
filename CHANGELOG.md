@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [v0.1.2] - 2026-10-31
+
+### Changed
+- Plugin identifier renamed from `dev.kingm.cider-lyric-sources` to `daz-public-sources-lr`; the release zip and the
+  plugin folder are now `daz-public-sources-lr`. Cider treats this as a new plugin: remove the old
+  `dev.kingm.cider-lyric-sources` folder when installing. Source order and settings carry over.
+
 ## [v0.1.1] - 2026-10-31
 
 First published release (no earlier tags or history).

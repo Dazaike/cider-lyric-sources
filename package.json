@@ -32,7 +32,7 @@
     "vue-tsc": "^3.3.3",
     "yaml": "^2.4.5"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cider plugin: lyrics from lrc.red, BiniLyrics, LRCLIB, KuGou, Genius and more through Cider's Community provider",
   "license": "GPL-3.0-only"
 }
